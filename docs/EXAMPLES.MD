@@ -68,7 +68,7 @@ Rejects:
 - per-file summary (counts + line numbers)
 - totals line
 - grouped matched messages:
-```md
+```text
 ============================================================
 myfile.txt
 ============================================================
