@@ -1,10 +1,8 @@
 # Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
 
-# Virtual environments
+# Virtual envs
 .venv/
 venv/
 env/
@@ -16,10 +14,8 @@ env/
 .DS_Store
 Thumbs.db
 
-# Private Discord data + generated files
+# Private data + generated outputs 
 Input/
 Chats/
-data/
-outputs/
 search_results.txt
 users.txt
