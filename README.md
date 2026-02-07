@@ -156,7 +156,7 @@ Both parser.py and users.py support replacing specific global names using:
 
 ENABLE_NAME_REPLACEMENTS = True
 NAME_REPLACEMENTS = {
-    "𓄧": "wnki",
+    "zemedic": "Medic",
     # "X": "x",
 }
 ```
