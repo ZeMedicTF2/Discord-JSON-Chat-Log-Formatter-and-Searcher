@@ -16,7 +16,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# P  rivate Discord data + generated files
+# Private Discord data + generated files
 Input/
 Chats/
 data/
